@@ -1,0 +1,4 @@
+interface:
+  display_name: "Keel Workflow"
+  short_description: "Keel SDLC workflow for agents"
+  default_prompt: "Use the Keel workflow to plan, implement, or research work in a Keel-managed repository."

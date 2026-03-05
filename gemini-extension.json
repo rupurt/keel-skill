@@ -1,0 +1,6 @@
+{
+  "name": "keel-skill",
+  "version": "0.1.0",
+  "description": "Keel workflow extension with reusable planning, implementation, and research skills.",
+  "contextFileName": "GEMINI.md"
+}
